@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is PunPunKubb
 ===================================================================================================================================\
 <img
-src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
-bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
-M9gbBd9nbDrOTu1Mqx/giphy.gif](https://lh3.googleusercontent.com/a/ACg8ocK_zGdE5nwhgqbsolbwNKT4qzo_0MyCGKkrJX9B8w9EUDUQuYE=s288-c-no)" width="100" height="100" />
+src="https://images.squarespace-cdn.com/content/v1/607f89e638219e13eee71b1e/1684821560422-SD5V37BAG28BURTLIXUQ/michael-sum-LEpfefQf4rU-unsplash.jpg" width="100" height="100" />
 ![](https://komarev.com/ghpvc/?username=PunPunKubb&color=green)
 
 <p align="left">
